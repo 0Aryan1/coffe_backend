@@ -1,0 +1,16 @@
+{
+  "name": "coffe_backend",
+  "version": "1.0.0",
+  "description": "a practice backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "backend",
+    "coffe"
+  ],
+  "author": "Aryan Agrawal",
+  "license": "ISC"
+}
